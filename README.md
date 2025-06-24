@@ -42,8 +42,8 @@ PRACTICE/
 
 ## 💡 Autor
 
-Creado con 💻 y café por [Eduardo Oviedo](https://github.com/edvardoviedo)  
-Diseñador + futuro experto en Python para análisis de datos. 🧙‍♂️🐍
+Creado con 💻 y Matcha por [Eduardo Oviedo](https://github.com/edvardoviedo)  
+
 
 ---
 
@@ -53,5 +53,4 @@ Diseñador + futuro experto en Python para análisis de datos. 🧙‍♂️🐍
 
 ---
 
-> _"Los datos bien organizados son poder en estado puro."_  
-> — Tú dentro de unas semanas 😎
+> _"Los datos bien organizados son poder en estado puro."
